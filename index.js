@@ -21,7 +21,8 @@ function invertValue(){
     document.getElementById('input-value').value = input * -1
 }
 
-function raiz(){
+function percent(){
+    calculate()
     const input = document.getElementById('input-value').value
     document.getElementById('input-value').value = input / 100
 }
