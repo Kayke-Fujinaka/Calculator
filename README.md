@@ -1,6 +1,6 @@
 # Calculator Grid
 
-<img src="./assets/img/gif.gif" width="800px" height="500px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" alt="Gif do Teste">
 
 >  A grid calculator made with HTML, CSS and JavaScript.
 
